@@ -4,20 +4,4 @@
     "gitbook": ">= 3.0.0",
 
     "language": "zh-hans",
-
-    "plugins": [
-        "-sharing",
-        "-fontsettings",
-        "-lunr",
-        "-search",
-        "search-pro",
-        "theme-official",
-        "sitemap-general"
-    ],
-
-    "pluginsConfig": {
-        "sitemap-general": {
-            "prefix": "http://zitiao.org/deploy/"
-        }
-    }
 }
