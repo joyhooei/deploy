@@ -1,9 +1,6 @@
 {
     "root": "./",
     "title": "通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档",
-   
-    "logo": "./images/logo.png",
-
     "gitbook": ">= 3.0.0",
 
     "language": "zh-hans",
