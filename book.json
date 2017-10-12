@@ -1,8 +1,6 @@
 {
-<<<<<<< HEAD
     "title": "通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档",
     "gitbook": ">= 3.0.0",
-=======
     "root": "./",
     "title": "通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档",
     "head_title": "_通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档_字条网",
@@ -29,5 +27,4 @@
             "prefix": "http://zitiao.org/deploy/"
         }
     }
->>>>>>> parent of b9dc0d5... Track 13 files into repository.
 }
