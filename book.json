@@ -1,5 +1,6 @@
 {
     "title": "通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档",
+<<<<<<< HEAD
     "root": ".",
     "title": "通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档",
 
@@ -22,4 +23,7 @@
             "prefix": "http://zitiao.org/deploy/"
         }
     }
+=======
+    "gitbook": ">= 3.0.0",
+>>>>>>> parent of a8a6814... Revert "Track 13 files into repository."
 }
